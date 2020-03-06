@@ -1,0 +1,68 @@
+@charset "utf-8";
+/* CSS Document */
+
+<style type="text/css">
+			div{list-style: none;}
+			*{margin: 0;padding: 0;}
+			ul{
+				list-style: none;
+			}
+			a{
+				text-decoration: none;
+			}
+			#nav ul{
+				width: 1300px;
+				height: 50px;
+				border: 1px solid red;
+				margin: 0 auto;
+			}
+			#nav ul li{
+				width: 14.285%;
+				line-height: 50px;
+				float: left;
+				text-align: center;
+			}
+			#nav ul li a{
+				display: block;
+				background: black;
+				color: deepskyblue;
+				font-weight: bold;
+			}
+			#nav ul li a:hover{
+				background: white;
+				color: deeppink;
+			}
+			.two ul{
+				height:25%;
+				width: 150px;
+				height: 400px;
+				border: 1px solid pink;
+				margin: 0 30px;
+			}
+			.two ul li{
+				line-height: 100px;
+				float: center;
+				text-align: center;
+			}
+			.two ul li a{
+				display: block;
+				background:deepskyblue;
+				color: black;
+				font-weight: bold;
+			}
+			.two ul li a:hover{
+				background: white;
+				color: deeppink;
+			}
+			.too{
+				width:1300px;
+				height:100px;
+			}
+			.too img{
+				width:1350px;
+				height:100px;
+			}
+			.four{
+				margin:-220px 240px;
+			}
+</style>
