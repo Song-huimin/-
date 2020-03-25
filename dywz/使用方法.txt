@@ -1,0 +1,8 @@
+1.将mydb放入D:\apache-tomcat-6.0.20\webapps\examples\WEB-INF\classes；
+将dywz整个文件夹放入D:\apache-tomcat-6.0.20\webapps\examples\jsp。
+
+2.启动tomcat服务器后，在浏览器（建议使用360浏览器）输入网址：http://localhost:8080/examples/jsp/dywz/
+
+3.登录可使用：
+登录名shm，密码shm（管理员）。
+登录名hly，密码hly（普通用户）。
